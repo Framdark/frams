@@ -2,9 +2,9 @@ Package: love.litten.dopecc
 Name: Dopecc
 Version: 1.0
 Architecture: iphoneos-arm
-Description: Dopesettings in the cc
+Description: Dopesettings in the cc this tweak was made by shortflow (litten) all credit gos to him
 Maintainer: Ethan Gottlieb
-Author: Love Litton
+Author: shortflow (litten)
 Section: Tweak
 Depends: 
 Filename: debs/love.litten.dopecc_1.0_iphoneos-arm.deb
