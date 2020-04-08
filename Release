@@ -1,8 +1,8 @@
-Origin: (Modify)
-Label: (Modify)
+Origin: (Framdarks repo)
+Label: (Framdarks repo)
 Suite: stable
 Version: 1.0
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: (Modify)
+Description: (My first repo)
