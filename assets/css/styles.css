@@ -1,0 +1,24 @@
+body {
+    margin:25px;
+    text-align: center;
+    background-color: #FFABEB;
+}
+
+div.polaroid {
+    width: 30%;
+    background-color: White;
+    margin: auto;
+    margin-bottom: 25px;
+
+}
+
+  div.container {
+    text-align: center;
+    padding: 10px 20px;
+  }
+
+  @media screen and (max-width: 600px) {
+    div.polaroid {
+      width: 75%;
+    }
+  }
