@@ -6,11 +6,13 @@
   "tabs": [
     {
       "class": "DepictionStackView",
-      "tabname": "Example page",
+      "tabname": "N/A",
       "views": [
         {
+       [{"class":"DepictionScreenshotsView","screenshots":[{"url":"https://framdark.github.io/frams/subpages/sc1","accessibilityText":"Screenshot"},{"url":"https://framdark.github.io/frams/subpages/sc2","accessibilityText":"Screenshot"},{"url":"https://framdark.github.io/frams/subpages/sc3","accessibilityText":"Screenshot"}],"itemCornerRadius":8,"itemSize":"{185,400}"}
+
           "class": "DepictionHeaderView",
-          "title": "This is an example "
+          "title": "Info"
         },
         // ... more views can be added here.
       ],
