@@ -8,6 +8,7 @@ Author: shortflow (Litten)
 Section: Tweak
 Depends: 
 Depiction: https://framdark.github.io/frams/subpages/dopecc/dopecc.html
+SileoDepiction: https://Framdark.github.io/frams/subpages/Sileo-Depiction/love.litten.dopecc.json
 Icon: subpages/icon.png
 Filename: debs/love.litten.dopecc_1.0_iphoneos-arm.deb
 Size: 3310

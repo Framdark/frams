@@ -1,0 +1,20 @@
+{
+  "minVersion": "0.1",
+  "class": "DepictionTabView",
+  "headerImage": "https://framdark.github.io/frams/subpages/banner.png",
+  "tintColor": "#11C0FF",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Example page",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "This is an example "
+        },
+        // ... more views can be added here.
+      ],
+        // ... more pages can be added here.
+    }
+  ]
+}
