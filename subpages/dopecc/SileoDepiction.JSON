@@ -2,17 +2,15 @@
   "minVersion": "0.1",
   "class": "DepictionTabView",
   "headerImage": "https://framdark.github.io/frams/subpages/banner.png",
-  "tintColor": "#11C0FF",
+  "tintColor": "#6264D3",
   "tabs": [
     {
       "class": "DepictionStackView",
-      "tabname": "N/A",
+      "tabname": "Example page",
       "views": [
         {
-       [{"class":"DepictionScreenshotsView","screenshots":[{"url":"https://framdark.github.io/frams/subpages/sc1.png","accessibilityText":"Screenshot"},{"url":"https://framdark.github.io/frams/subpages/sc2.png","accessibilityText":"Screenshot"},{"url":"https://framdark.github.io/frams/subpages/sc3","accessibilityText":"Screenshot"}],"itemCornerRadius":8,"itemSize":"{185,400}"}
-
           "class": "DepictionHeaderView",
-          "title": "Info"
+          "title": "This is an example "
         },
         // ... more views can be added here.
       ],
