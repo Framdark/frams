@@ -4,7 +4,7 @@
    "itemCornerRadius":10,
    "banners":[  
       {  
-         "url":"https://framdark.github.io/frams/subpages/b1",
+         "url":"https://framdark.github.io/frams/subpages/b1.png",
          "title":"DopeCC",
          "package":"love.litten.dopecc",
          "hideShadow":false
