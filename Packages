@@ -1,6 +1,6 @@
 Package: love.litten.dopecc
 Name: Dopecc
-Version: 1.2
+Version: 1.3
 Architecture: iphoneos-arm
 Description: Dopesettings in the cc this tweak was made by shortflow (litten) all credit goes to him
 Maintainer: Framdark
@@ -10,8 +10,8 @@ Depends:
 Depiction: https://framdark.github.io/frams/subpages/dopecc/dopecc.html
 SileoDepiction: https://Framdark.github.io/frams/subpages/Sileo-Depiction/love.litten.dopecc.json
 Icon: subpages/icon.png
-Filename: debs/love.litten.dopecc_1.2-1+debug_iphoneos-arm.deb
-Size: 4824
-MD5sum: ab75c090351c53c31f5ca33eee201cd2
-SHA1: 0b21872a091ff33c306f728e462f8833e3c716d3
-SHA256: bd8fe2a2ad7126dba3ee1fe2a044132da4dd849a3397ebc91bd5420e52de3c0a
+Filename: debs/love.litten.dopecc_1.3_iphoneos-arm.deb
+Size: 3284
+MD5sum: 62f8b68830d314f37ebbc3afe430788a
+SHA1: b7933b75bc59dc402a3651eebdaa8c7646a8edf9
+SHA256: 7daa64790a6d2660390359876c2c4abd6f1eb39a99969007a4b09794579eb924
