@@ -1,0 +1,53 @@
+body {
+    margin:25px;
+    text-align: center;
+    background-color: #D3D3D3;
+}
+
+.container,.panel{padding:0.01em 16px}.panel{margin-top:16px;margin-bottom:16px}
+.white,.hover-white:hover{color:#000!important;background-color:#fff!important}
+.Border_Rad{border-radius: 25px;}
+
+scroll_view {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    margin: 10px;
+    white-space: nowrap;
+    -webkit-overflow-scrolling: touch;
+}
+
+.scroll_view > .card {
+    background-color: #ccc;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    height: 125px;
+    width: 275px;
+    position: relative;
+    display: inline-block;
+}
+
+.scroll_view > .img_card {
+    background-color: #ccc;
+    width: 250px;
+    margin: 5px;
+    border-radius: 10px;
+    font-weight: bold;
+    position: relative;
+    display: inline-block;
+
+    .card > p {
+        color: white;
+        bottom: 15px;
+        left: 15px;
+        font-size: 25px;
+        position: absolute;
+        text-shadow: 0 0 10px rgba(0,0,0,0.8); 
+    }
+
+
+
