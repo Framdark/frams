@@ -1,7 +1,8 @@
 body {
     margin:25px;
-    background-color: #D3D3D3;
     text-align: center;
+    background-color: #000000;
+    color: white;
 }
 
 .container,.panel{padding:0.01em 16px}.panel{margin-top:16px;margin-bottom:16px}
@@ -49,6 +50,26 @@ scroll_view {
         text-shadow: 0 0 10px rgba(0,0,0,0.8); 
     }
 
+    @media only screen and (max-width: 600px) {
+        .body {
+            margin-left: 20px;
+            margin-right: 20px;
+        }
+        .scroll_view {
+            width: calc(100vw - 60px);
+        }
+    }
+    
+    @media only screen and (min-width: 601px) {
+        .body {
+            width: 95%;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .scroll_view {
+            width: 95%;
+        }
+    }
 
 
 
