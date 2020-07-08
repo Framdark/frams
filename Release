@@ -6,3 +6,7 @@ Codename: ios
 Architectures: iphoneos-arm
 Components: main
 Description: My first repo
+MD5Sum:
+ bfd3927b47b5dc44eda7015a06658dc0 675 Packages
+ 66c3703c845ce32562416fe436687d9c 484 Packages.bz2
+ a1c0c442c7fcbee8be38a8d496f23ece 496 Packages.xz
