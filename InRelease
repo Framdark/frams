@@ -1,0 +1,29 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: Framdarks repo
+Label: Framdarks repo
+Suite: stable
+Version: 1.1
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: My first repo
+MD5Sum:
+ bfd3927b47b5dc44eda7015a06658dc0 675 Packages
+ 66c3703c845ce32562416fe436687d9c 484 Packages.bz2
+ a1c0c442c7fcbee8be38a8d496f23ece 496 Packages.xz
+-----BEGIN PGP SIGNATURE-----
+
+iQGzBAEBCAAdFiEEg7+5huyUuIqZ1B6vD7S9zjMa3CsFAl8HrWUACgkQD7S9zjMa
+3CtBuQwAh2VGEWgfP+VJk/V2zofjoIl2FoYIT7DPg6qKGbOzbbNGzcryDzOQ1cEJ
+4u+KFPAvRMlEINCs0XPMicSDvbIb7M3iS4g2EIe3WqYWCIDYWL8E+HfQXPUYXcDI
+LgXZAzc8mhr3nJFNJbMXKOE9WhUQHK5u1UrSPz6LQ2est3z4Mj/ajlOQ9+3MWYmC
+XBmf3WpSnuh1ytjGfHU+l55YGDrdOg++uJGkXBSUWvpvkOIshqXep1LgJyPEA5AQ
+kyn+9vJdpmwSt+2XjKKS9ZaZ/TiMwP1w/TyhoSiSwRUm0bXb1XMkYEV9jmN90u7g
+cIWJJ5uk3dWFtTQAu0hWqUEmQ7GstR7uoeUafn4I5TVFLvn7vPAwpGACT43XhvgZ
+OGmAitWkJo923g+/CBCCWSBjyJd+4iU2SXkxcEMUzT0CStdNoMd/Ddzg0CH/Xoty
+GzdUzrr7EGVBsVjoBDNrDavH1M2VlNAVv3GBELHhwhfuDBUMdBfJTJ3qGXv8NKhb
+jTyek6sa
+=0DWB
+-----END PGP SIGNATURE-----
