@@ -7,6 +7,6 @@ Architectures: iphoneos-arm
 Components: main
 Description: My first repo
 MD5Sum:
- bfd3927b47b5dc44eda7015a06658dc0 675 Packages
- 66c3703c845ce32562416fe436687d9c 484 Packages.bz2
- a1c0c442c7fcbee8be38a8d496f23ece 496 Packages.xz
+ 3204b917694941ae674f79c2e89739af 675 Packages
+ 3f7a180e69e2abbb69e84343f0bd67d1 475 Packages.bz2
+ 30442dc39733f8e397e282f4b9179e99 496 Packages.xz
