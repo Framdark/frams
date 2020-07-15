@@ -16,7 +16,7 @@ MD5sum: 62f8b68830d314f37ebbc3afe430788a
 SHA1: b7933b75bc59dc402a3651eebdaa8c7646a8edf9
 SHA256: 7daa64790a6d2660390359876c2c4abd6f1eb39a99969007a4b09794579eb924
 
-Package: Add.gpg/key
+Package: Add.gpg.key
 Name: ADD_GPG_KEY
 Version: 1.0
 Architecture: iphoneos-arm
