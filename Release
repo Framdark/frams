@@ -5,23 +5,23 @@ Version: 1.1
 Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Date: Mon, 20 Jul 2020 20:33:20 +0000
+Date: Tue, 21 Jul 2020 00:23:15 +0000
 Description: My first repo
 MD5Sum:
- 413ac623aa568d1fc2bafda8de6763a2 936 Packages
- dd3389df895da0e99d5b5642b719fc61 587 Packages.bz2
- bc7fbb32ce6660595d9a4ffe2430e26a 584 Packages.xz
- d0bf6a92e01603a4875aae70c9f28de2 517 Packages.gz
- 4935c25bc69dc6054fddafad3922d093 513 Packages.zst
+ 3da07435fb65e86e2fa211eff5649383 951 Packages
+ f539a504057a020cbce39bb77649e0f9 602 Packages.bz2
+ 72d287b2aba916cabfa25d1a39bee1e9 592 Packages.xz
+ 39eead0f4bb6a6fe6f3a9180bf36e9b9 526 Packages.gz
+ 06764fb513ab8b232d6152f78fc9a123 525 Packages.zst
 SHA1:
- d4c18a1657ff249bcf6f823081af84be825df623 936 Packages
- a9d40b06404a9b040366826addc6a496e71bb8fd 584 Packages.xz
- 9273b222736857ed020510dd218a0ae19fc8c9a7 587 Packages.bz2
- 75359c92f285986df85ca127e2c920d27ec69366 517 Packages.gz
- f19826f14f62c8ba477b43fc21b359e9d6a43e67 513 Packages.zst
+ 90635e398b5e42d806b2f9cad8cd25962113babd 951 Packages
+ 3bcea74b20c6ee453ab4e7fd02bf3b9e812ce2ce 592 Packages.xz
+ 71a233146d631e7947a2f3cbb7b9abab1efa4a20 602 Packages.bz2
+ e3bfbc3e2bc3c4545d82dc7e0b0aee174a5e652d 526 Packages.gz
+ 0b7f2349b91ed42ae416ef6792b69a42ffd2ccd2 525 Packages.zst
 SHA256:
- 234c1160a0ac329442ac50e51faaec6fe64b7ae27d10b8ad7cab8df1be228a4b 936 Packages
- 0338b13c14ce284c922e8e4a526caad45e7bf8ba8096ffdbc8b878d5a78e2a3c 584 Packages.xz
- 9faf5f6b985191e5daf7a73c3ed8025d9e558c08b668241675ef18f7bff9e886 587 Packages.bz2
- c54adfbbf4e0cd3fd46135950af85f27fb420cb41f59965689d7a7fb26c66e48 517 Packages.gz
- 8e6ae7aa940e3da4d01831b8760bb33019a647224b47ad2674b00469d585e68e 513 Packages.zst
+ 21bd9fbf71a8b4a6d55e048cba17c58d50e016ff73df7f0fc94c1af1367423f9 951 Packages
+ 6b0e7e6f2df100dfb7b0b4057dd3b6d78860d836f654675c30082decb74ac590 592 Packages.xz
+ 4eaa207fdaa47863c05ba9c4b03221bca9df059bb5099929525d8edd20f9bfb7 602 Packages.bz2
+ 1e2c12710235b186463082c4bc38d2a2f8a4b0e2d86ea9a019206d3f93451929 526 Packages.gz
+ 2c28f98f22ed195386bab171f607baaed2b952728bae3f859ec6e5b2d2969559 525 Packages.zst

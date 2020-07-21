@@ -6,7 +6,7 @@ Description: Dopesettings in the cc this tweak was made by shortflow (litten) al
 Maintainer: Framdark
 Author: shortflow (Litten)
 Section: Tweak
-Depends: 
+Depends: mobilesubstrate
 Depiction: https://framdark.github.io/frams/subpages/dopecc/dopecc.html
 SileoDepiction: https://Framdark.github.io/frams/subpages/Sileo-Depiction/love.litten.dopecc.json
 Icon: subpages/icon.png
