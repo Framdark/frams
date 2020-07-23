@@ -1,27 +1,37 @@
-Origin: Framdarks repo
-Label: Framdarks repo
-Suite: stable
-Version: 1.1
-Codename: ios
 Architectures: iphoneos-arm
+Codename: ios
 Components: main
-Date: Tue, 21 Jul 2020 00:23:15 +0000
-Description: My first repo
+Date: Thu, 23 Jul 2020 22:43:27 +0000
+Description: A well managed APT repo for ios
+Label: Framdarks repo
+Origin: Framdarks repo
+Suite: stable
+Version: 1.2
 MD5Sum:
- 3da07435fb65e86e2fa211eff5649383 951 Packages
- f539a504057a020cbce39bb77649e0f9 602 Packages.bz2
- 72d287b2aba916cabfa25d1a39bee1e9 592 Packages.xz
- 39eead0f4bb6a6fe6f3a9180bf36e9b9 526 Packages.gz
- 06764fb513ab8b232d6152f78fc9a123 525 Packages.zst
+ 3da07435fb65e86e2fa211eff5649383              951 Packages
+ f539a504057a020cbce39bb77649e0f9              602 Packages.bz2
+ 39eead0f4bb6a6fe6f3a9180bf36e9b9              526 Packages.gz
+ 72d287b2aba916cabfa25d1a39bee1e9              592 Packages.xz
+ 06764fb513ab8b232d6152f78fc9a123              525 Packages.zst
+ 4b0f9d8dd50639a99893f9152eadd5d3              214 Release
 SHA1:
- 90635e398b5e42d806b2f9cad8cd25962113babd 951 Packages
- 3bcea74b20c6ee453ab4e7fd02bf3b9e812ce2ce 592 Packages.xz
- 71a233146d631e7947a2f3cbb7b9abab1efa4a20 602 Packages.bz2
- e3bfbc3e2bc3c4545d82dc7e0b0aee174a5e652d 526 Packages.gz
- 0b7f2349b91ed42ae416ef6792b69a42ffd2ccd2 525 Packages.zst
+ 90635e398b5e42d806b2f9cad8cd25962113babd              951 Packages
+ 71a233146d631e7947a2f3cbb7b9abab1efa4a20              602 Packages.bz2
+ e3bfbc3e2bc3c4545d82dc7e0b0aee174a5e652d              526 Packages.gz
+ 3bcea74b20c6ee453ab4e7fd02bf3b9e812ce2ce              592 Packages.xz
+ 0b7f2349b91ed42ae416ef6792b69a42ffd2ccd2              525 Packages.zst
+ aad10a199528b20dbfdd92547b9582201454f494              214 Release
 SHA256:
- 21bd9fbf71a8b4a6d55e048cba17c58d50e016ff73df7f0fc94c1af1367423f9 951 Packages
- 6b0e7e6f2df100dfb7b0b4057dd3b6d78860d836f654675c30082decb74ac590 592 Packages.xz
- 4eaa207fdaa47863c05ba9c4b03221bca9df059bb5099929525d8edd20f9bfb7 602 Packages.bz2
- 1e2c12710235b186463082c4bc38d2a2f8a4b0e2d86ea9a019206d3f93451929 526 Packages.gz
- 2c28f98f22ed195386bab171f607baaed2b952728bae3f859ec6e5b2d2969559 525 Packages.zst
+ 21bd9fbf71a8b4a6d55e048cba17c58d50e016ff73df7f0fc94c1af1367423f9              951 Packages
+ 4eaa207fdaa47863c05ba9c4b03221bca9df059bb5099929525d8edd20f9bfb7              602 Packages.bz2
+ 1e2c12710235b186463082c4bc38d2a2f8a4b0e2d86ea9a019206d3f93451929              526 Packages.gz
+ 6b0e7e6f2df100dfb7b0b4057dd3b6d78860d836f654675c30082decb74ac590              592 Packages.xz
+ 2c28f98f22ed195386bab171f607baaed2b952728bae3f859ec6e5b2d2969559              525 Packages.zst
+ 2d59c231fa5c3305c8015616a3e0484f066cd7c80999d431430e128fb3fefaac              214 Release
+SHA512:
+ 0f84d6064b653bc27a78a54e601aca77dcf646b3f5391b78d281c6006e7e6a58b2817545494fd58fd66cbf7cd0a1c42ab7d6e6009387e64076ca3659a6cc9136              951 Packages
+ de205685706d25fb8825e957135d7f0567be0426ee88cac9ea0d16e0b2aea50dad343b6647726b6d13720fe94cf7cbfe26e1758f19b5eb7b8947774226a4974c              602 Packages.bz2
+ eede056d496fd7937999860aa3cb677b5a35dd0440c933728f2211cd4d717cb7a8b4b0d19afe617ea8d7f22d07705be08a41f2775bdb4180b9670a70f52bd8ae              526 Packages.gz
+ d026b25b5210f00b630dacbf2d6f479192938b226ae61ca925abc08501643d5f2d35d8258848c8321b80015812760f3e14eef3258ea3136b127a3b4f7edecad8              592 Packages.xz
+ 76b7359b9d91c0d1248590e6cb2fe57507b29085687c7125f09055ef8be1f37afda11d6d7918f77243fa29b475858d6e7284c12ea85a59666909fc8588dce2b5              525 Packages.zst
+ 818432229b373a86fe5e98f0c4e49a7886f64dd7048b42a4b4c63c9cb2d75592cd51a62cd7d5fc6795141ca121f17ca1fd9b6cb1c88963c9930ff732e6e5381d              214 Release
