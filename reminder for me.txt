@@ -1,1 +1,4 @@
 apt-ftparchive -c Apt-ftp.conf release . > Release
+
+
+gpg -abs -o Release.gpg Release
