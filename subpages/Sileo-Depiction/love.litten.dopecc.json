@@ -1,6 +1,6 @@
 {
     "minVersion": "0.1",
-    "headerImage": "../banner.png",
+    "headerImage": "https://framdark.github.io/frams/subpages/banner.png",
     "tintColor": "#11C0FF",
     "tabs": [
         {
@@ -10,7 +10,7 @@
                     "class": "DepictionScreenshotsView",
                     "screenshots": [
                         {
-                            "url": "../sc1.png",
+                            "url": "https://framdark.github.io/frams/subpages/sc1.png",
                             "accessibilityText": "Screenshot"
                         },
                         {
